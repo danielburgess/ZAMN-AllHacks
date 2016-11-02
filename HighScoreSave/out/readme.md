@@ -1,0 +1,1 @@
+Patched ROM is output here.
