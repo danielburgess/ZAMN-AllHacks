@@ -1,4 +1,4 @@
-#ZAMN High Score SRAM Save Support
+# ZAMN High Score SRAM Save Support
 For Zombies Ate My Neighbors, originally released in 1993 in the USA for the Super Nintendo Entertainment System.
 
 Here's what is included:
